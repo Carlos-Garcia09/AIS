@@ -1,1 +1,1 @@
-# AIS
+The objective of this project is to optimize the Michalewicz test function using the AIS method and the clone algorithm for solving multi-modal, multi-objective, and multi-variable optimization problems.
